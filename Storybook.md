@@ -1,21 +1,21 @@
 ## Storybook
 
 ## Presentation setup
-1. Slides from slides.com
 2. Giotransit running locally
 3. Giotransit SB running locally
 4. Sapphire app (dev)
 5. Sapphire SB running locally
 
 ### Agenda
-1. Show an existing app & flow
-2. Explain storybook, high level
-3. Dive deep into examples of storybook
-4. Storybook helps with testing, writing simple, clean, resuable code
-5. SB can help with Sapphire
-6. Downsides
-7. Conlusions
-8. Questions
+1. With all of this, this should be interactive, so please ask questions throughout
+2. Show an existing app & flow
+3. Explain storybook, high level
+4. Dive deep into examples of storybook
+5. Storybook helps with testing, writing simple, clean, resuable code
+6. SB can help with Sapphire
+7. Downsides
+8. Conlusions
+9. Questions
 
 ### Deep dive
 Lets start by showing the simple bus route app which calls the metro transit API  
