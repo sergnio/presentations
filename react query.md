@@ -3,6 +3,9 @@
 2 minutes explain the old way
 8 minutes show how OP RQ is
 
+https://docs.google.com/presentation/d/14VNeSWJaoXeY2kVNy5SjbbFX3iR4Kawtz3iMmcwgue0/edit#slide=id.g3156997b169_0_14
+
+
 ## Basic example - before branch
 Big things:
 1. Show primitive example
